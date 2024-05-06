@@ -94,7 +94,7 @@ typings/
 # Serverless directories
 
 
-# FuseBox cache
+
 .fusebox/
 
 # DynamoDB Local files
