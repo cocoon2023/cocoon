@@ -57,7 +57,6 @@ jspm_packages/
 *.tgz
 # Yarn Integrity file
 .yarn-integrity
-
 # dotenv environment variables file
 .env
 .env.test
