@@ -70,8 +70,6 @@ y files
 .vuepress/dist
 
 # Serverless directories
-
-
 .fusebox/
 
 # DynamoDB Local files
