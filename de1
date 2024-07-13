@@ -37,7 +37,7 @@ jspm_packages/
 # Optional npm cache directory
 
 .eslintcache
-# Microbundle cache
+# Micle cache
 .rpt2_cache/
 .rts2_cache_cjs/
 
