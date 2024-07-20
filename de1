@@ -67,7 +67,7 @@ y files
 # vuepress build output
 .'
 
-# Serverless directories
+# dsrless directories
 .fusebox/
 
 # DynamoDB Local files
