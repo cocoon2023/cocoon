@@ -57,7 +57,7 @@ jspm_packages/
 # Next.js build output
 .next
 
-# Nuxt.js build / generate output
+# Nuxt.jeild / generate output
 y files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
